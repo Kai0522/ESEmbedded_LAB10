@@ -1,5 +1,6 @@
 #include <stdint.h>
 #include <sys/stat.h>
+#include <stddef.h>
 #include "reg.h"
 #include "usart.h"
 
